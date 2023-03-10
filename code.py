@@ -1,6 +1,7 @@
-a= 1
-b = 2
-c = a+b
+vaishnavi= 1
+sai= 2
+tejaswini= vaishnavi+sai
+
 
 print("hello vaishnavi")
-print(c)
+print(tejaswini)
